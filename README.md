@@ -2,7 +2,7 @@
 I'm :sparkles: YaNing :sparkles: from Taiwan. A self-motivated front-end developer who's interested in exploring cool web features :nerd_face:
 
 ## :sun_with_face: About Me
-:heart: In love with __modern CSS (compiled by SCSS/SASS/LESS)__ <br/>
+:heart: In love with __modern CSS__ (compiled by SCSS/SASS/LESS) <br/>
 :woman_technologist: Experienced in advanced __JavaScript, React.js__ <br/>
 :ghost: Speak German, English, Mandarin <br/>
 :rocket: Hungry learner, enjoying learning new stuff <br/>
