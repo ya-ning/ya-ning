@@ -1,16 +1,29 @@
-# Hello world :wave:
-I'm :sparkles: YaNing :sparkles: from Taiwan. A self-motivated front-end developer who's interested in exploring cool web features :nerd_face:
+# Hi, I'm YaNing 👋
 
-## :sun_with_face: About Me
-:heart: In love with __modern CSS__ (compiled by SCSS/SASS/LESS) <br/>
-:woman_technologist: Experienced in advanced __JavaScript, React.js__ <br/>
-:ghost: Speak German, English, Mandarin <br/>
-:rocket: Hungry learner, enjoying learning new stuff <br/>
-:evergreen_tree: Nature lover (Veggie, Fruits, Hiking) :ocean: :kangaroo: :otter: <br/>
+**Frontend Developer · React Enthusiast · Lifelong Learner**
 
-## :thought_balloon: Motto
-> Dream as if you will live forever; live as if you will die today. 
+I'm a frontend developer who enjoys building modern, intuitive web experiences. I'm passionate about React, JavaScript, and writing clean, maintainable code. I love exploring new technologies, experimenting with web features, and continuously improving my craft.
 
-## :email: Connect with me
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/yaning-hsu/)
-* Gmail: [janing.hsu@gmail.com](janing.hsu@gmail.com)
+### 👩🏻‍💻 About Me
+
+- ⚛️ Focused on **React** and modern frontend development
+- 🎨 Passionate about **CSS**, responsive design, and polished user interfaces
+- 🧩 Interested in JavaScript, component architecture, and reusable UI
+- 🌱 Always learning, experimenting, and exploring new technologies
+- 🌍 Speak German, English, and Mandarin
+- 🥾 Nature lover who enjoys hiking, and bouldering
+
+### 🛠️ Tech Stack
+
+**Core:** JavaScript · HTML5 · CSS3 · React
+
+**Styling:** Sass / SCSS · Modern CSS
+
+### 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yaning-hsu/)
+- 📧 [Email](mailto:janing.hsu@gmail.com)
+
+---
+
+> Dream as if you will live forever; live as if you will die today.
